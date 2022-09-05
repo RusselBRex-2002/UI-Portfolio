@@ -8,6 +8,6 @@ Hello there. This is Russel B Rex's github portfolio repository. I gonna furnish
 3) Sack'O'Books: It's a simple and a basic library management system. The project link is 
     https://www.figma.com/proto/TphqxmRpEnuuO5WPfT7Qrr/SackOBooks?node-id=2%3A2&scaling=scale-down
 4) Zmeet: It's a meeting application for unlimited video calls. The project link is 
-    https://www.figma.com/proto/qB1jRNpbWAj2SkU9XTxUVZ/Zmeet?node-id=29%3A8&scaling=scale-down
+    https://www.figma.com/proto/qB1jRNpbWAj2SkU9XTxUVZ/Zmeet?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 5) Tunnel Rush: It's a landing page for an upcoming game. The project link is 
     https://www.figma.com/proto/P4aQaC575uQWHTq8kjrEN2/Tunnel-Rush?node-id=2%3A2&scaling=scale-down-width
